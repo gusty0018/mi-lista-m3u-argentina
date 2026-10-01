@@ -141,6 +141,18 @@ http://15.204.246.24:8080/AMCHD/index.m3u8
 http://190.93.224.42/AYE/index.m3u8
 http://138.121.15.230:9002/A&E/index.m3u8
 
+#EXTINF:-1 ,History 2
+https://cdn1tlinkgo.tlink.cl/history2hd/index.m3u8
+http://190.93.224.42/HISTORY-2/index.m3u8
+http://181.119.66.28:8081/HISTORY-2/index.m3u8
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+
+#EXTINF:-1 ,History
+http://190.93.224.42/HISTORY/index.m3u8
+http://181.119.66.28:8081/History-HD/index.m3u8
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.GpsRLpEyZD0NE2keGiawUAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",DragonBallTV
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8

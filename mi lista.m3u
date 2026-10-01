@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 A24
+#EXTINF:-1 tvg-id="A24"
 http://45.134.141.161:2200/ARG/A24/index.m3u8
 
 #EXTINF:-1 América TV

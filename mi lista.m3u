@@ -12,7 +12,7 @@ http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true",TN AR
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
-#EXTINF:-1 ,CANAL 7 (SDE)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Canal_7_Santiago_del_Estero_(Logo_2010).png/revision/latest/scale-to-width-down/250?cb=20200615005605",CANAL 7 (SDE)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true",EL TRECE

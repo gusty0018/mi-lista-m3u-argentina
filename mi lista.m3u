@@ -20,6 +20,8 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://static.wikia.nocookie.net/d8441c79-eed0-47e2-b624-754fb43b269a/scale-to-width/755",EL TRECE
 #EXTVLCOPT:http-reconnect=true
 http://190.108.83.69:8000/play/a01d/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://15.204.246.24:8080/eltreceHD/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true",TELEFE AR
 http://181.209.91.106:2222/Live/6dbb671c7b1b078e8678c2e31e0c8243/telefe_480.m3u8

@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 A24
+http://45.134.141.161:2200/ARG/A24/index.m3u8
+
+#EXTINF:-1 América TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/deb41b6a-b6f2-495e-b5ef-11189d23b096:SCL2/master.m3u8
+
+#EXTINF:-1 TV PUBLICA
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8
+
+#EXTINF:-1 TN AR
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+
+#EXTINF:-1 EL TRECE
+http://181.209.105.115:2525/play/eltrece/index.m3u8
+
+#EXTINF:-1 TELEFE AR
+http://181.209.91.106:2222/Live/6dbb671c7b1b078e8678c2e31e0c8243/telefe_480.m3u8
+
+#EXTINF:-1 LN+
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/lntv.playlist.m3u8
+
+#EXTINF:-1 CANAL 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 CRONICA TV
+http://181.209.105.115:2525/play/cronica/index.m3u8
+
+#EXTINF:-1 EL NUEVE
+http://181.209.105.115:2525/play/elnueve/index.m3u8
+
+#EXTINF:-1 ENCUENTRO
+http://181.209.80.115:8000/play/encuentro
+
+#EXTINF:-1 ESPN
+http://181.209.105.115:2525/play/espn/index.m3u8
+
+#EXTINF:-1 ESPN 2
+http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8
+
+#EXTINF:-1 ESPN 3
+http://181.209.80.115:8000/play/espn_3_hd
+
+#EXTINF:-1 ESPN 4
+http://181.209.80.115:8000/play/espn_4_hd
+
+#EXTINF:-1 ESPN Premium
+http://181.209.105.115:2525/play/espnpremium/index.m3u8
+
+#EXTINF:-1 TNT SPORTS AR
+http://181.209.105.115:2525/play/tntsports/index.m3u8
+
+#EXTINF:-1 DSPORTS
+http://181.209.80.115:8000/play/dsports_hd
+
+#EXTINF:-1 DSPORTS 2
+http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
+
+#EXTINF:-1 DSPORTS+
+http://195.178.110.110/dsportsplus/index.m3u8
+
+#EXTINF:-1 FOX SPORTS
+http://181.209.80.115:8000/play/fox_sports_hd
+
+#EXTINF:-1 FOX SPORTS 2
+http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
+
+#EXTINF:-1 FOX SPORTS 3
+http://138.59.227.20:8000/play/a06y/index.m3u8?hls
+
+#EXTINF:-1 Tyc Sports
+http://181.209.105.115:2525/play/tycsports/index.m3u8
+
+#EXTINF:-1 DEPORT TV
+http://181.209.105.115:2525/play/deportv/index.m3u8
+
+#EXTINF:-1 El Chavo del 8
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts

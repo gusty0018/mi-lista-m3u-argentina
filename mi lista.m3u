@@ -12,10 +12,10 @@ http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true",TN AR
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Canal_7_Santiago_del_Estero_(Logo_2010).png/revision/latest/scale-to-width-down/250?cb=20200615005605",CANAL 7 (SDE)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdAuw1SU_KuPnT1YP4YDXcvRGyH-LYwh-hVpd6a41xpTRj8uTEEG5sIwtqrW8o8nnAkpmXpk8GOb3TLoySAKLpytR-C1eONWZCjOcotOGFpWFAD0iCw8fROHXMletsppyZB-tuiYUrBHA/w1200-h630-p-k-no-nu/Canal+7+Santiago+del+Estero+en+vivo.jpg",CANAL 7 (SDE)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/eltrece-ar.png?raw=true",EL TRECE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/d8441c79-eed0-47e2-b624-754fb43b269a/scale-to-width/755",EL TRECE
 http://181.209.105.115:2525/play/eltrece/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/02-Telefe.png?raw=true",TELEFE AR
@@ -57,7 +57,7 @@ http://181.209.105.115:2525/play/tntsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",DSPORTS
 http://181.209.80.115:8000/play/dsports_hd
 
-#EXTINF:-1 tvg-logo="https://envivo.rojadirectatv.casa//wp-content/uploads/futbol-agenda/canales/directv-sports-2.webp",DSPORTS 2
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ExW_Du71uiw/Y4I8aPdtrOI/AAAAAAAAAGg/ZOZIuUYFfYgLAdAPs_rvz912WKIgF5xSgCNcBGAsYHQ/s500/dir%2Bdos.jpg",DSPORTS 2
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true",DSPORTS+
@@ -78,11 +78,11 @@ http://181.209.105.115:2525/play/tycsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true",DEPORT TV
 http://181.209.105.115:2525/play/deportv/index.m3u8
 
-#EXTINF:-1 ,DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/08/Disney-Channel-Logo.png",DISNEY CHANNEL
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 
-#EXTINF:-1 ,DISNEY JR
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0212e48533d134389681820a1299d6be?rik=3CZejtY2tJDw%2bQ&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f27500000%2fDisney-Junior-Logo-disney-junior-27558537-2560-1920.jpg&ehk=5hjaAQr%2bBEfFFLmUNjewqHJhimG6vcWWSh%2bysXQlbao%3d&risl=&pid=ImgRaw&r=0",DISNEY JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg",El Chavo del 8
+#EXTINF:-1 tvg-logo="https://wallpaperaccess.com/full/2696971.jpg",El Chavo del 8
 http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts

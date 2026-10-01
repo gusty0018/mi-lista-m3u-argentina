@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A24"
+#EXTINF:-1, tvg-id="A24"
 http://45.134.141.161:2200/ARG/A24/index.m3u8
 
-#EXTINF:-1 América TV
+#EXTINF:-1, América TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/deb41b6a-b6f2-495e-b5ef-11189d23b096:SCL2/master.m3u8
 
 #EXTINF:-1 TV PUBLICA

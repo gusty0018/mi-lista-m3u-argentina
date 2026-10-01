@@ -112,6 +112,15 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0212e48533d134389681820a1299d6be?rik=3CZejtY2tJDw%2bQ&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f27500000%2fDisney-Junior-Logo-disney-junior-27558537-2560-1920.jpg&ehk=5hjaAQr%2bBEfFFLmUNjewqHJhimG6vcWWSh%2bysXQlbao%3d&risl=&pid=ImgRaw&r=0",DISNEY JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 ,FX Latin America
+https://cdn1tlinkgo.tlink.cl/fxhd/index.m3u8
+http://190.93.224.42/FX/index.m3u8
+http://181.119.66.28:8081/FX-HD/index.m3u8
+http://45.162.193.35/FX/index.m3u8
+http://38.252.238.18:8000/play/a01c/index.m3u8
+http://15.204.246.24:8080/FXHD/index.m3u8
+https://iptv2.intersurtv.cl/FX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.GpsRLpEyZD0NE2keGiawUAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",DragonBallTV
 #EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8

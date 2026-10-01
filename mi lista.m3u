@@ -40,6 +40,21 @@ http://181.209.105.115:2525/play/elnueve/index.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/encuentro-ar.png?raw=true",ENCUENTRO
 http://181.209.80.115:8000/play/encuentro
 
+#EXTINF:-1 ,NET TV
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+
+#EXTINF:-1 ,Pakapaka
+http://181.209.105.115:2525/play/pakapaka/index.m3u8
+https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG
+
+#EXTINF:-1 ,Cine.Ar
+http://181.209.105.115:2525/play/cinear/index.m3u8
+
+#EXTINF:-1 ,Garage
+https://stream1.sersat.com/hls/garagetv.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",ESPN
 http://181.209.105.115:2525/play/espn/index.m3u8
 
@@ -114,3 +129,9 @@ http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 
 #EXTINF:-1 ,el 9
 http://15.204.246.24:8080/elnueveHD/index.m3u8
+
+#EXTINF:-1 ,SonyChannel
+http://138.121.15.230:9002/SONY/index.m3u8
+
+#EXTINF:-1 ,Volver
+http://138.121.113.175:8000/play/a04r/index.m3u8

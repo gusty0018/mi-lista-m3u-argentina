@@ -196,3 +196,20 @@ http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdiWaP6gVMb74yBl4Hcxj88ih6OuvbD5iYA&s",TUDN (United States)
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 http://45.190.13.8/TUDNHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RzQ3wQ.png" group-title="YouTube Live - Noticias", C5N EN VIVO
+https://www.youtube.com/watch?v=cb12KmMMD98
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="YouTube Live - Noticias", TN EN VIVO
+https://www.youtube.com/watch?v=Q2v2a3aJ5mY
+#EXTINF:-1 tvg-logo="" group-title="YouTube Live - Noticias", A24 EN VIVO
+https://www.youtube.com/watch?v=5PSNL1qE6VY
+#EXTINF:-1 tvg-logo="" group-title="YouTube Live - Noticias", LA NACION + EN VIVO
+https://www.youtube.com/watch?v=3qP2v2a3aJ5
+#EXTINF:-1 tvg-logo="" group-title="YouTube Live - Noticias", CRONICA TV EN VIVO
+https://www.youtube.com/watch?v=avly0uwZzOE
+#EXTINF:-1 tvg-logo="" group-title="YouTube Live - Noticias", CANAL 26 EN VIVO
+https://www.youtube.com/watch?v=6amW2v2a3aJ
+#EXTINF:-1 tvg-logo="" group-title="YouTube Live - General", GARAGE TV
+https://www.youtube.com/watch?v=8RzQ3wQ3wQ3
+#EXTINF:-1 tvg-logo="" group-title="IPTV", TV PUBLICA AR (M3U8 normal - prueba)
+https://stream.arcast.com.ar/c5n/live.m3u8

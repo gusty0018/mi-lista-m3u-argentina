@@ -207,3 +207,9 @@ http://45.190.13.8/TUDNHD/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.myatltv.com/shows/simpsons/The-Simpsons-Logo.jpg" group-title="24/7",Los Simpson 2 (24/7) http://stream.latino-webtv.com/series/simpsons.mp4
+
+#EXTINF:-1 tvg-logo="http://www.myatltv.com/shows/simpsons/The-Simpsons-Logo.jpg" group-title="24/7",Los Simpson 1 (24/7) http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u 8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 (Pelix Max 1)" tvg-logo="https://peliculas247.com/wp-content/uploads/2017/08/05.png" group-title="(Pelix Max 1)",Los Simpson (24/7) https://hls-ord-2a.vaughnsoft.net/nyc/live/live_vitatosimpson7/chunklist.m3u8? PelixMax1.m3u8
+

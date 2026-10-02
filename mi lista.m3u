@@ -127,10 +127,10 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/fx-logo-png_seeklogo-477744.png",FX Latin America
 http://38.252.238.18:8000/play/a01c/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",E!
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJEyhVOkLkfmtseV4sB22uTDNpfh334DPv2EHdrvbl37dJPFoxr9jVfxU&s=10",E!
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJEyhVOkLkfmtseV4sB22uTDNpfh334DPv2EHdrvbl37dJPFoxr9jVfxU&s=10",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",AMC
 https://iptv2.intersurtv.cl/AMC/index.m3u8
 https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8
 http://138.121.15.230:9002/AMC/index.m3u8

@@ -46,6 +46,9 @@ http://181.209.80.115:8000/play/encuentro
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/volver-1.jpg",Volver
+http://138.121.113.175:8000/play/a04r/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Pakapaka
 https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG
 
@@ -113,6 +116,10 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0212e48533d134389681820a1299d6be?rik=3CZejtY2tJDw%2bQ&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f27500000%2fDisney-Junior-Logo-disney-junior-27558537-2560-1920.jpg&ehk=5hjaAQr%2bBEfFFLmUNjewqHJhimG6vcWWSh%2bysXQlbao%3d&risl=&pid=ImgRaw&r=0",DISNEY JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line-thumbnail.png",Nickelodeon Latin America
+http://190.93.224.42/NICK/index.m3u8
+http://15.204.246.24:8080/NickHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfFKKZjzP_iHcG2jF7AUjnMwSkEJtEsxRstw&s",A&E
 http://190.93.224.42/AYE/index.m3u8
 http://138.121.15.230:9002/A&E/index.m3u8
@@ -149,26 +156,6 @@ http://190.93.224.42/HISTORY-2/index.m3u8
 http://181.119.66.28:8081/HISTORY-2/index.m3u8
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.GpsRLpEyZD0NE2keGiawUAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",DragonBallTV
-#EXTVLCOPT:http-reconnect=true
-https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://wallpaperaccess.com/full/2696971.jpg",El Chavo del 8
-http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNubfm6mcnNx7aZm3WdadHkaDLNv6kGWK9Kg&s",FilmArts
-http://15.204.246.24:8080/FilmArtsHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlcpy1VWv8Obj-h4xQbTwxzbGFfSEfgMptA&s",Sony
-http://138.121.15.230:9002/SONY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/volver-1.jpg",Volver
-http://138.121.113.175:8000/play/a04r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/702/13/png-transparent-nickelodeon-logo-wikipedia-logo-nickelodeon-movies-speechlanguage-pathology-nickelodeon-splat-orange-text-line-thumbnail.png",Nickelodeon Latin America
-http://190.93.224.42/NICK/index.m3u8
-http://15.204.246.24:8080/NickHD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/701/943/png-transparent-national-geographic-hd-logo-thumbnail.png",National Geographic Latin America
 https://iptv2.intersurtv.cl/NATGEO/index.m3u8
 https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
@@ -178,20 +165,33 @@ http://45.173.231.22:8000/play/a05z/index.m3u8
 http://45.162.193.35/NATGEO/index.m3u8
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREVrRoQtjDDzNxOzEaCLT1-PQhYwYTDZYhvw&s",Naruto Shippuden
-https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
-https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNubfm6mcnNx7aZm3WdadHkaDLNv6kGWK9Kg&s",FilmArts
+http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png",MTV
-http://15.204.246.24:8080/MTVHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Crunchyroll
-https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTlcpy1VWv8Obj-h4xQbTwxzbGFfSEfgMptA&s",Sony
+http://138.121.15.230:9002/SONY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/960px-Universal_Channel_Logo_2013.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Universal TV Latin America
 http://181.119.66.28:8081/Universal-HD/index.m3u8
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
 http://15.204.246.24:8080/UniversalHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png",MTV
+http://15.204.246.24:8080/MTVHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREVrRoQtjDDzNxOzEaCLT1-PQhYwYTDZYhvw&s",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+
+#EXTINF:-1 tvg-logo="",Crunchyroll
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.GpsRLpEyZD0NE2keGiawUAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",DragonBallTV
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpaperaccess.com/full/2696971.jpg",El Chavo del 8
+http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdiWaP6gVMb74yBl4Hcxj88ih6OuvbD5iYA&s",TUDN (United States)
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8

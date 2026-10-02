@@ -55,52 +55,52 @@ http://181.209.105.115:2525/play/cinear/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo-thumbnail.png",GarageTv
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",ESPN
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true" group-title="Deportes",ESPN
 http://181.209.105.115:2525/play/espn/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true" group-title="Deportes",ESPN 2
 http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true" group-title="Deportes",ESPN 3
 http://181.209.80.115:8000/play/espn_3_hd
 
-#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/espn-4-br.png?raw=true" group-title="Deportes",ESPN 4
 http://181.209.80.115:8000/play/espn_4_hd
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true",ESPN Premium
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-EspnPremium.png?raw=true" group-title="Deportes",ESPN Premium
 http://181.209.105.115:2525/play/espnpremium/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true",TNT SPORTS AR
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TNTSports.png?raw=true" group-title="Deportes",TNT SPORTS AR
 http://181.209.105.115:2525/play/tntsports/index.m3u8
 
-#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true",DSPORTS
+#EXTINF:-1 tvg-id="DSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="Deportes",DSPORTS
 http://181.209.80.115:8000/play/dsports_hd
 
-#EXTINF:-1 tvg-id="DSports2.ar" tvg-logo="https://lh3.googleusercontent.com/-ExW_Du71uiw/Y4I8aPdtrOI/AAAAAAAAAGg/ZOZIuUYFfYgLAdAPs_rvz912WKIgF5xSgCNcBGAsYHQ/s500/dir%2Bdos.jpg",DSPORTS 2
+#EXTINF:-1 tvg-id="DSports2.ar" tvg-logo="https://lh3.googleusercontent.com/-ExW_Du71uiw/Y4I8aPdtrOI/AAAAAAAAAGg/ZOZIuUYFfYgLAdAPs_rvz912WKIgF5xSgCNcBGAsYHQ/s500/dir%2Bdos.jpg" group-title="Deportes",DSPORTS 2
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true",DSPORTS+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="Deportes",DSPORTS+
 http://195.178.110.110/dsportsplus/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true",FOX SPORTS
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-ar.png?raw=true" group-title="Deportes",FOX SPORTS
 http://181.209.80.115:8000/play/fox_sports_hd
 
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true",FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-2-ar.png?raw=true" group-title="Deportes",FOX SPORTS 2
 http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true",FOX SPORTS 3
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/fox-sports-3-ar.png?raw=true" group-title="Deportes",FOX SPORTS 3
 http://138.59.227.20:8000/play/a06y/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true",Tyc Sports
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/22cc66e94bdbd51852f892b716eb60f54801f106/icons/07-TyC.png?raw=true" group-title="Deportes",Tyc Sports
 #EXTVLCOPT:http-reconnect=true
 http://181.209.105.115:2525/play/tycsports/index.m3u8
 http://38.44.109.41:8003/play/a02l/index.m3u8
 http://168.228.44.241:9999/play/a02e/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rxmRxJZEFlVylE_fUxRDPAwYAmaBX5-OIg&s",tyc sport fan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rxmRxJZEFlVylE_fUxRDPAwYAmaBX5-OIg&s" group-title="Deportes",tyc sport fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true",DEPORT TV
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/deportv-ar.png?raw=true" group-title="Deportes",DEPORT TV
 http://181.209.105.115:2525/play/deportv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.J1XRFDJzBzl2_TeKSsBvFQHaGe?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",Discovery Kids
@@ -197,19 +197,3 @@ http://15.204.246.24:8080/UniversalHD/index.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 http://45.190.13.8/TUDNHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3RzQ3wQ.png" group-title="YouTube Live - Noticias", C5N EN VIVO
-https://www.youtube.com/watch?v=cb12KmMMD98
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="YouTube Live - Noticias", TN EN VIVO
-https://www.youtube.com/watch?v=Q2v2a3aJ5mY
-#EXTINF:-1 tvg-logo="" group-title="YouTube Live - Noticias", A24 EN VIVO
-https://www.youtube.com/watch?v=5PSNL1qE6VY
-#EXTINF:-1 tvg-logo="" group-title="YouTube Live - Noticias", LA NACION + EN VIVO
-https://www.youtube.com/watch?v=3qP2v2a3aJ5
-#EXTINF:-1 tvg-logo="" group-title="YouTube Live - Noticias", CRONICA TV EN VIVO
-https://www.youtube.com/watch?v=avly0uwZzOE
-#EXTINF:-1 tvg-logo="" group-title="YouTube Live - Noticias", CANAL 26 EN VIVO
-https://www.youtube.com/watch?v=6amW2v2a3aJ
-#EXTINF:-1 tvg-logo="" group-title="YouTube Live - General", GARAGE TV
-https://www.youtube.com/watch?v=8RzQ3wQ3wQ3
-#EXTINF:-1 tvg-logo="" group-title="IPTV", TV PUBLICA AR (M3U8 normal - prueba)
-https://stream.arcast.com.ar/c5n/live.m3u8

@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz,https://www.open-epg.com/files/argentina1.xml,https://www.open-epg.com/files/argentina2.xml,https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/argentina5.xml,https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml"
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true",A24
+#EXTVLCOPT:http-reconnect=true
+http://45.134.141.161:2200/ARG/A24/index.m3u8
+
+#EXTINF:-1 tvg-id="canal 25",Canal26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="tn",TN
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+
+#EXTINF:-1 tvg-id="ln+",LN+
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/lntv.playlist.m3u8
+
+#EXTINF:-1 tvg-id="telefe",Telefe
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="canal 7 sde",Canal 7 SDE
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="america",America
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="canal7 tv publica",Canal 7 (ex tv publica)
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8
+
+#EXTINF:-1 tvg-id="el nueve",El Nueve
+http://15.204.246.24:8080/elnueveHD/index.m3u8
+
+#EXTINF:-1 tvg-id="el trece",El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="encuentro",Encuentro
+http://181.209.80.115:8000/play/encuentro
+
+#EXTINF:-1 tvg-id="nettv",Net TV
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="neotv",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="bayres",Bayres
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="garagetv",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="tycsport",Tyc Sport
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt sport",TNT Sport
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+
+#EXTINF:-1 tvg-id="cartoon network",Cartoon Network
+http://158.172.217.18:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-id="disney",Disney Channel
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-id="disney jr",Disney Jr
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="discovery",Discovery Kids
+http://38.134.250.110:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon",Nickelodeon
+http://190.93.224.42/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="nickjr",NickJr
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="space",Space
+http://45.171.64.30:6060/play/a04n/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax",Cinemax
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnt",TNT
+http://45.171.64.30:6060/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="star",Star Channel
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+
+#EXTINF:-1 tvg-id="cinecanal",Cinecanal
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+http://190.61.47.54:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="warner",Warner
+http://38.134.250.110:8000/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo",HBO
+https://streaming.onnethn.com/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbo2",HBO2
+http://45.171.64.30:6060/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo family",HBO Family
+http://45.171.64.30:6060/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="tcm",TCM
+http://45.171.64.30:6060/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="axn",AXN
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv",MTV
+https://streaming.onnethn.com/MTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="quiero musica",Quiero Musica
+http://158.172.155.130:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="tlc",TLC
+http://38.134.250.110:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="las estrellas",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8?bw=8000&segment_size=4&max_bitrate=12000&min_bitrate=3000&frame_rate=60&buffer_length=5&latency=normal
+
+#EXTINF:-1 tvg-id="golden",Golden
+http://181.78.12.119:16123/play/ch46/index.m3u8
+
+#EXTINF:-1 tvg-id="history",History
+http://190.93.224.42/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="h2",H2
+http://190.93.224.42/HISTORY-2/index.m3u8
+
+#EXTINF:-1 tvg-id="el gourmet",El Gourmet
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="natgeo",NatGeo
+http://190.93.224.42/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery channel",Discovery Channel
+http://45.171.64.30:6060/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="lovenature",Love Nature
+https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
+
+#EXTINF:-1 tvg-id="filmyart",Film&Art
+http://200.115.120.1:8000/play/ca131/index.m3u8
+
+#EXTINF:-1 tvg-id="argentinisima",Argentinisima
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="universal",Universal
+http://38.134.250.110:8000/play/a006/index.m3u8
+http://181.119.66.28:8081/Universal-HD/index.m3u8
